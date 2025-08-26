@@ -1,14 +1,14 @@
-# Quiz Application 🎯  
+Quiz Application 
 
 This is a Python-based Quiz Application built to practice programming concepts and improve logical problem-solving skills.  
-The project has **two versions**:  
+The project has two versions:  
 
-1. **Basic Quiz Application** – without logging.  
-2. **Quiz Application with Logging** – improved version that uses Python’s `logging` module for better debugging and tracking.  
+1. Basic Quiz Application – without logging.  
+2. Quiz Application with Logging – improved version that uses Python’s `logging` module for better debugging and tracking.  
 
 ---
 
-## ✨ Features  
+✨ Features  
 - Multiple-choice questions  
 - User-friendly interface (console-based)  
 - Score tracking  
@@ -17,14 +17,14 @@ The project has **two versions**:
 
 ---
 
-## 🛠️ Tech Stack  
-- **Language:** Python  
-- **Libraries Used:** None (basic Python + logging module in the logging version)  
-- **Version Control:** Git & GitHub  
+🛠️ Tech Stack  
+- Language: Python  
+- Libraries Used: None (basic Python + logging module in the logging version)  
+- Version Control: Git & GitHub  
 
 ---
 
-## 📂 Project Structure  
+📂 Project Structure  
 
 quiz-application/
 │── quiz_basic/ # Project without logging
@@ -36,18 +36,18 @@ quiz-application/
 
 ---
 
-## 🚀 Future Improvements  
-- Add a GUI with **Tkinter** or **Flask**  
-- Store questions in a **JSON/Database**  
-- Add difficulty levels (**easy/medium/hard**)  
+🚀 Future Improvements  
+- Add a GUI with Tkinter or Flask
+- Store questions in a JSON/Database  
+- Add difficulty levels (easy/medium/hard)  
 - Export logs to a file for analysis  
-- Add different log levels (**info, warning, error**)  
+- Add different log levels (info, warning, error)  
 - Timer-based quiz  
 
 ---
 
-## 👤 Author  
-**Aatir Saleem**  
+👤 Author  
+Aatir Saleem
 📍 Software Engineering Student | AI & ML Enthusiast  
 
 
